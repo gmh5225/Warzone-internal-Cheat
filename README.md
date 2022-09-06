@@ -2,7 +2,7 @@
 
 ### Modern warefare / warzone cheat
 
-Offset Works Update: 04-Sept-2022
+Offset Works Update: 06-Sept-2022
 - esp
 - aimbot
 - no recoil
